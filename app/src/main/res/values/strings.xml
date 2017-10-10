@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Atlan Team</string>
+    <string name="title_home">Главная</string>
+    <string name="title_contacts">Контакты</string>
+    <string name="main_fragment">Hello main fragment</string>
+    <string name="contact_fragment">Hello contact fragment</string>
+    <string name="button_find">Find</string>
+</resources>
